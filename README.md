@@ -1,3 +1,16 @@
+# 코드 재현
+
+1. path.py
+- datasets_path = '내 데이터 경로' 
+이것만 설정하게 되어있는데
+- IEMOCAP = '내 데이터 경로' 
+이 코드 라인도 추가해야 전처리 코드 handleIEMOCAP.py 돌아감.
+
+2. 전처리 - handleIEMOCAP.py 돌리기
+
+3. ./scripts/돌리고싶은 shell
+
+
 # GLAM
 By Wenjing Zhu, Xiang Li. 
 
